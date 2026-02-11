@@ -1,4 +1,7 @@
 # @claw-dev/color-picker
+[![npm](https://img.shields.io/npm/v/@raphaellcs/color-picker)](https://www.npmjs.com/package/@raphaellcs/color-picker)
+[![downloads](https://img.shields.io/npm/dm/@raphaellcs/color-picker)](https://www.npmjs.com/package/@raphaellcs/color-picker)
+[![license](https://img.shields.io/npm/l/@raphaellcs/color-picker)](https://www.npmjs.com/package/@raphaellcs/color-picker)
 
 > 颜色选择工具 - 生成和转换颜色代码
 

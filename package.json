@@ -1,5 +1,5 @@
 {
-  "name": "@claw-dev/color-picker",
+  "name": "@raphaellcs/color-picker",
   "version": "1.0.0",
   "description": "颜色选择工具 - 生成和转换颜色代码",
   "main": "src/index.js",
